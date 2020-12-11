@@ -31,6 +31,8 @@ Laravel Boilerplate provides you with a massive head start on any size web appli
 
 ### Install
 -Composer Install
+
+### npm
 -npm install && npm run dev
 
 ### Issues
